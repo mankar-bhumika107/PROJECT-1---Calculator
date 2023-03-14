@@ -1,0 +1,55 @@
+.text-center{
+    text-align:center; 
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin:auto;
+}
+.flex{
+display: flex ;
+}
+.flex-col{
+    flex-direction:column;
+
+}
+.items-center
+{
+    align-items:center;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border:2px solid black;
+    border-radius:9px;
+    cursor:pointer; 
+}
+.row{
+    margin:8px 0;
+}
+.row input{
+    margin:0;
+    padding:10px 38px;
+    border:2px solid black;
+    border-radius:5px;
+    width:230px;
+}
+.body
+{
+    background-color: rgba(168, 108, 108, 0.657);
+}
+
+
+  .b1
+  {
+    background-color: burlywood;
+  }
+  .b2
+  {
+    background-color: rgb(143 142 142);;
+  }
+  #b4
+  {
+    background-color: #8bc34a;
+  }
